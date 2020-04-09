@@ -2,7 +2,7 @@
 
 A flutter app which is used to classify hand drawn digits. 
 
-<img src="images/image1.jpg" width=300>
+<img src="image1.jpg" width=300>
+<img src="image2.jpg" width=300>
 
- ## Apk file 
 
